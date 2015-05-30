@@ -1,0 +1,6 @@
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\EntComp_Assignment1_200234351\EntComp_Assignment1_200234351\bin\EntComp_Assignment1_200234351.dll.config
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\EntComp_Assignment1_200234351\EntComp_Assignment1_200234351\bin\EntComp_Assignment1_200234351.dll
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\EntComp_Assignment1_200234351\EntComp_Assignment1_200234351\bin\EntComp_Assignment1_200234351.pdb
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\EntComp_Assignment1_200234351\EntComp_Assignment1_200234351\obj\Debug\EntComp_Assignment1_200234351.csprojResolveAssemblyReference.cache
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\EntComp_Assignment1_200234351\EntComp_Assignment1_200234351\obj\Debug\EntComp_Assignment1_200234351.dll
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\EntComp_Assignment1_200234351\EntComp_Assignment1_200234351\obj\Debug\EntComp_Assignment1_200234351.pdb
