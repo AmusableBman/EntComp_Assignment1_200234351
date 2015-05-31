@@ -33,7 +33,34 @@
         </div>
 
         <div class="form-group">
-            <asp:Button ID="btnCalculate" runat="server" text="Summary"/>
+            <asp:Button ID="btnCalculate" CssClass="btn btn-primary" runat="server" text="Summary" OnClick="btnCalculate_Click"/>
+        </div>
+
+        <h2>Summary</h2>
+
+        <div>
+            <asp:Label ID="lblGamesWon" runat="server"></asp:Label>
+        </div>
+        <div>
+            <asp:Label ID="lblGamesLost" runat="server"></asp:Label>
+        </div>
+        <div>
+            <asp:Label ID="lblWinPercent" runat="server"></asp:Label>
+        </div>
+        <div>
+            <asp:Label ID="lblTotalScored" runat="server"></asp:Label>
+        </div>
+        <div>
+            <asp:Label ID="lblTotalAllowed" runat="server"></asp:Label>
+        </div>
+        <div>
+            <asp:Label ID="lblDifferential" runat="server"></asp:Label>
+        </div>
+        <div>
+            <asp:Label ID="lblTotalSpectators" runat="server"></asp:Label>
+        </div>
+        <div>
+            <asp:Label ID="lblAvgSpectators" runat="server"></asp:Label>
         </div>
     </div>
 </asp:Content>
