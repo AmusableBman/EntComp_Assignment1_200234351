@@ -11,7 +11,7 @@ namespace EntComp_Assignment1_200234351
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            rblWonLost.SelectedIndex = 0;
+            
         }
 
         public bool wonLost

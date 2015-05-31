@@ -10,8 +10,8 @@ namespace EntComp_Assignment1_200234351
     public partial class _default : System.Web.UI.Page
     {
 
-        int gamesWon, gamesLost, totalScored, totalAllowed, differential, totalSpectators, avgSpectators = 0;
-        int winPercent = 0;
+        int totalScored, totalAllowed, differential, totalSpectators, avgSpectators;
+        decimal gamesWon, gamesLost, winPercent;
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -21,8 +21,8 @@ namespace EntComp_Assignment1_200234351
 
         protected void btnCalculate_Click(object sender, EventArgs e)
         {
-            gamesWon = gamesLost = totalScored = totalAllowed = differential = totalSpectators = avgSpectators = 0;
-            winPercent = 0;
+            totalScored = totalAllowed = differential = totalSpectators = avgSpectators = 0;
+            gamesWon = gamesLost = winPercent = 0;
 
             if (game1.wonLost == true)
             {
